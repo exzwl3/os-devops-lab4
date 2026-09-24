@@ -1,1 +1,1 @@
-print("Hello from Ablaikhan Kababsov")
+echo 'print("Hello from Ablaikhan Kabasov")'
