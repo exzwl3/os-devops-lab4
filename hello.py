@@ -1,1 +1,1 @@
-echo 'print("Hello from Ablaikhan Kabasov")' 
+echo 'print("Hello from Ablaikhan Kabasov")' > hello.py
